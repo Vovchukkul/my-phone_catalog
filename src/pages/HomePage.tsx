@@ -1,5 +1,3 @@
-import 'bulma/css/bulma.css';
-import '@fortawesome/fontawesome-free/css/all.css';
 import { useMemo } from 'react';
 import { Slider } from '../components/Slider';
 import { Phone } from '../types/Phone';
