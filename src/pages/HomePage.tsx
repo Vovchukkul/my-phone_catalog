@@ -1,3 +1,4 @@
+import React from 'react';
 import { useMemo } from 'react';
 import { Slider } from '../components/Slider';
 import { Phone } from '../types/Phone';

@@ -1,4 +1,4 @@
-import { useContext, useMemo, useState } from 'react';
+import React, { useContext, useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { CartContext } from '../context/CardContext';
 import { useDisableScrollOnPopup } from '../helpers/getDisabledScrollOnPopUps';

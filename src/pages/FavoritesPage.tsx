@@ -1,4 +1,4 @@
-import { useContext, useMemo } from 'react';
+import React, { useContext, useMemo } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
 import { BreadCrumbs } from '../components/BreadCrumbs';
 import { ProductCard } from '../components/ProductCard';
